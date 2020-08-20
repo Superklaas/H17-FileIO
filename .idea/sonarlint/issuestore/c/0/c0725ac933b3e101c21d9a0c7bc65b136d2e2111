@@ -1,0 +1,12 @@
+
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Þ”¥þøÿÿÿÿ8’ˆä¶¿.
+m
+java:S1192"PDefine a constant instead of duplicating this literal "Absolute path: " 4 times.(ç§ô®8š£î°À.
+f
+java:S1192"IDefine a constant instead of duplicating this literal "Exists: " 4 times.(ÐÏ‡¾8š£î°À.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«ñ—õùÿÿÿÿ8£¿À¶¿.
+o
+java:S1192"RDefine a constant instead of duplicating this literal "Cannonical path: " 4 times.(…‹¢Ü8š£î°À.
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Path: " 4 times.(ÆÅ®øýÿÿÿÿ8š£î°À.

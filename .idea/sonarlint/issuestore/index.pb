@@ -1,0 +1,35 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+\
+,src/main/java/be/vdab/JavaFileExtractor.java,a/b/abfb70126a7907de0c75945b317734caa7d85fc6
+Z
+*src/main/java/be/vdab/StandardStreams.java,8/9/89762e5fd73c69d1e3da365e1c74d7561d0c697c
+U
+%src/main/java/be/vdab/FileWalker.java,5/0/50270eb48e897c9c912ee4512fa487f98b2e6c27
+S
+#src/main/java/be/vdab/ZipFiles.java,d/1/d14de580e10888e6ed78b66e6406a5bb88d89da7
+T
+$src/main/java/be/vdab/DeleteTxt.java,0/5/05320a1dfdb3f71d2373e20f7b036bd3a965128f
+U
+%src/main/java/be/vdab/DeleteDest.java,5/e/5e6d9b14663a481dc8dc0ce9b7e523019ffee855
+T
+$src/main/java/be/vdab/DeleteZip.java,8/b/8bffcecc4132dede1fc655e91692f7f15e199a65
+S
+#src/main/java/be/vdab/TestFile.java,9/4/9449a2c0affdecdbfb565ed3716738036bdee35d
+S
+#src/main/java/be/vdab/TestPath.java,3/1/313c98cc774984fc88a3d37827b17aeea34d04f7
+d
+4src/main/java/be/vdab/Listing1212_TestFileClass.java,c/0/c0725ac933b3e101c21d9a0c7bc65b136d2e2111
+8
+test.txt,4/b/4b6fcb2d521ef0fd442a5301e7932d16cc9f375a
+b
+2src/main/java/be/vdab/Listing1213_PrintWriter.java,1/c/1ccfe931b1090c6f259ad6b6fffa02eb24eb92ce
+g
+7src/main/java/be/vdab/Listing1214_TryWithResources.java,7/2/72a9dc3072f0d14054b18d74822c06ca232be750
+9
+	test1.txt,0/5/055e2536b6ac416b21f4ba26f180983a90e94a3a
+9
+	test2.rtf,6/1/6171b7bfd1ec05b28594a2950e2ab30b0e7104de
+^
+.src/main/java/be/vdab/Listing1215_Scanner.java,f/3/f3bf07de65a7885f7fd5c89bbeb6dc3a264e2114
